@@ -32,6 +32,7 @@ public class Main {
         System.out.println("Git enabled");
         System.out.println("Git enabled");
         System.out.println("Git enabled");
+        System.out.println("NEW");
         //Client - Server -> Teoriq
         //Git -> programa/service
         //Postman -> programa
