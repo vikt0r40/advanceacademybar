@@ -25,7 +25,13 @@ public class Main {
 
         frame.setVisible(true);
 
-
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
+        System.out.println("Git enabled");
         //Client - Server -> Teoriq
         //Git -> programa/service
         //Postman -> programa
